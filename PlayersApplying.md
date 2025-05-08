@@ -1,6 +1,6 @@
 # Player Applications
 
-| Name      | Date of application |
-| :----------- | :----------- |
-|   dasdasd    |      sss  |
-|  asd |   asdasdasdasdasd     |
+| ID | Name      | Date of application |
+| :--- | :----------- | :----------- |
+| 1 |     |      |
+| 2 |   |      |
