@@ -21,3 +21,5 @@
 1. To tag a player, you need to physically touch a part of their body so that they feel it and announce that they have been tagged.
 2. After being tagged, there is a cooldown of 30 minutes during which the player who got tagged **(p2)** can not pass the tag back to the player who tagged him **(p1)**. If the tag gets passed to any other player, for example, a third player **(p3)**, **p1** is fair game, but **p2** is not.
 3. There are no safe zones. No matter where a player is or what he is doing, he can be tagged as long as his safety is not endangered and it won't bring harm, misery, etc. to others.
+
+## Amendments
