@@ -4,3 +4,4 @@
 - Daria Evgenieva
 - Boris Kochev
 - Kaloyan Margoevski
+- Andrey Nikolov
