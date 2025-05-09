@@ -5,3 +5,4 @@
 - Boris Kochev
 - Kaloyan Margoevski
 - Andrey Nikolov
+- Viktoria Dineva
