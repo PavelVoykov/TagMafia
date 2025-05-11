@@ -6,3 +6,4 @@
 - Kaloyan Margoevski
 - Andrey Nikolov
 - Viktoria Dineva
+- Emil Doychinov
