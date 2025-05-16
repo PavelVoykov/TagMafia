@@ -23,3 +23,5 @@
 3. There are no safe zones. No matter where a player is or what he is doing, he can be tagged as long as his safety is not endangered and it won't bring harm, misery, etc. to others.
 
 ## Amendments
+
+1. At the end of each month, the player who has the tag looses the game for this month and has to buy everybody a sweet of their choice up to 1lv/0.5€.
