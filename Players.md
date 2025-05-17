@@ -7,3 +7,4 @@
 - Andrey Nikolov
 - Viktoria Dineva
 - Emil Doychinov
+- Alex Ivanov
